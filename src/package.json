@@ -1,0 +1,22 @@
+{
+  "name": "japgl",
+  "version": "1.0.0",
+  "description": "Just another Postgres library",
+  "main": "index.js",
+  "keywords": [
+    "postgres",
+    "pg",
+    "database",
+    "typescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^8.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.4",
+    "@types/pg": "^8.10.1",
+    "typescript": "^5.0.4"
+  }
+}
